@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠facts made in 010
+### 🧠made par 010
 
 - J’écoute des <i>playlists chill</i> pendant que je code, c’est mon carburant 🎧🌙  
 - Je ne cherche pas à faire parfait, je cherche à faire authentique.

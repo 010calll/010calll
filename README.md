@@ -5,7 +5,7 @@
 
 <h1 align="center">Salut le monde 👋</h1>
 <h4 align="center">Je suis </h4>
-<h3 align="center">🎓 Étudiante | 💻 Développeuse| 🎨 Designer en herbe</h3>
+<h3 align="center">🎓 Étudiante | 💻 Développeuse| 🎨 Designer</h3>
 
 ---
 

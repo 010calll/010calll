@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate">
 </p>
 
-<h1 align="center">Hey, I'm Mehdi 👨‍💻</h1>
+<h1 align="center">Hey THERE 👋</h1>
 <p align="center">
-  <em>"Between the silence of code and the noise of errors, I find my rhythm."</em>
+<h3 align="center">I'm 🎓 Étudiante  | 💻 Développeuse  | 🌱 Dessigner</h3>
 </p>
 
 ---

@@ -1,4 +1,3 @@
-<!-- Animated entrance -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate">
 </p>
@@ -49,7 +48,6 @@
 
 ---
 
-<!-- Animated outro -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
 </p>

@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate">
 </p>
 
-<h1 align="center">Salut le monde 👋</h1>
-<h4 align="center">Je suis </h4>
+<h1 align="center">Hy , THERE 👋</h1>
+<h4 align="center">I'm</h4>
 <h3 align="center">🎓 Étudiante | 💻 Développeuse| 🎨 Designer</h3>
 
 ---
@@ -18,8 +18,8 @@
 
 ### 🧠made par 010
 
-- J’écoute des <i>playlists chill</i> pendant que je code, c’est mon carburant 🎧🌙  
-- Je ne cherche pas à faire parfait, je cherche à faire authentique.
+I listen to chill playlists while I code — it’s my fuel 🎧🌙
+I’m not aiming for perfect, I’m aiming for authentic.
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 
-<h1 align="center">Ohhh  mon nom à toi de le découvrir ;)</h1>
+<h1 align="center">Ooh... my name? I’ll let you find out ;)</h1>
 
 
 ---

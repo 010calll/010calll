@@ -17,10 +17,8 @@
 ---
 
 ### 🧠made par 010
-
-I listen to chill playlists while I code — it’s my fuel 🎧🌙
-I’m not aiming for perfect, I’m aiming for authentic.
-
+<p>I listen to chill playlists while I code — it’s my fuel 🎧🌙</p>
+<p>I’m not aiming for perfect, I’m aiming for authentic.</p>
 ---
 
 ### 🧰 Technologies et outils que j’apprends ou utilise :

@@ -39,11 +39,6 @@
 
 
 ---
-
-
-<h1 align="center">Ooh... my name? I’ll let you find out ;)</h1>
-
-
 ---
 
 <p align="center">

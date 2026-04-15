@@ -17,9 +17,11 @@
 ---
 
 ### 🧠made par 010
-<p>I listen to chill playlists while I code — it’s my fuel 🎧🌙</p>
-<p>I’m not aiming for perfect, I’m aiming for authentic.</p>
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
+</p>---
 
 ### 🧰 Technologies et outils que j’apprends ou utilise :
 

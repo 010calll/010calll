@@ -6,7 +6,9 @@
 <h4 align="center">I'm</h4>
 <h3 align="center">🎓 Étudiante | 💻 Développeuse| 🎨 Designer</h3>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
+</p>
 
 ### 🚧 Ce que je construis ces temps-ci
 
@@ -16,7 +18,6 @@
 
 ---
 
-### 🧠made par 010
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
 </p><p align="center">
@@ -40,9 +41,12 @@
 
 
 
----
----
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
 </p>

@@ -11,7 +11,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
 </p>
-<img src="[[https://i.pinimg.com/736x/44/a3/d1/44a3d17dea5ec11f27445fece8e137ba.jpg](https://i.pinimg.com/736x/44/a3/d1/44a3d17dea5ec11f27445fece8e137ba.jpg)](https://github.com/010calll/image.git)">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/010calll/image/main/will.png"
+    width="300"
+    alt="Will Smith"
+  >
+</p>
  <img src="https://pic.clubic.com/v1/images/2071476/raw">
 50 contributions in the last year
 <picture>

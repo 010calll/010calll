@@ -13,10 +13,10 @@
 </p>
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/010calll/image/main/will.png"
+    src="https://raw.githubusercontent.com/010calll/image/main/images-removebg-preview.png"
     width="300"
     alt="Will Smith"
-  >
+  />
 </p>
  <img src="https://pic.clubic.com/v1/images/2071476/raw">
 50 contributions in the last year

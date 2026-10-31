@@ -3,14 +3,12 @@
 </p>
 
 <h1 align="center">Hy , THERE 👋</h1>
-<h4 align="center">I'm</h4>
-<h3 align="center">🎓 Étudiante | 💻 Développeuse| 🎨 Designer</h3>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
 </p>
 
-### 🚧 Ce que je construis ces temps-ci
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=010calll&layout=compact&theme=radical&langs_count=10" alt="Top Langs" />

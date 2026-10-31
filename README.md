@@ -18,7 +18,7 @@
     alt="Will Smith"
   />
 </p>
- <img src="https://pic.clubic.com/v1/images/2071476/raw" width="700">
+ <img src="https://pic.clubic.com/v1/images/2071476/raw" width="100">
 50 contributions in the last year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />

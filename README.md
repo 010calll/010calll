@@ -10,9 +10,9 @@
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/010calll/image/main/images-removebg-preview.png" width="300" alt="Will Smith" />
-  <img src="https://pic.clubic.com/v1/images/2071476/raw" width="200" alt="Second image" />
+  <img src="https://pic.clubic.com/v1/images/2071476/raw" width="200" alt="Second image"   style="position: relative; top: -30px;"
+/>
 </p>
- <img src="https://pic.clubic.com/v1/images/2071476/raw" width="200">
 50 contributions in the last year
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />

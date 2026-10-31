@@ -10,8 +10,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H1xxxx/H1xxxx/main/a.gif" style="max-width: 100%;" alt="animated gate closing">
 </p>
 50 contributions in the last year
 <picture>
